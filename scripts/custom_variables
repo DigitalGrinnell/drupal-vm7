@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export DRUPAL_VAGRANT_THEME="bootstrap"
+# export DRUPAL_VAGRANT_THEME="https://github.com/DigitalGrinnell/Digital_Grinnell_Theme"
